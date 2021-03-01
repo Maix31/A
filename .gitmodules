@@ -1,0 +1,3 @@
+[submodule "B"]
+	path = B
+	url = https://github.com/Maix31/B.git
